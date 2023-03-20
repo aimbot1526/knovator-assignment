@@ -1,2 +1,2 @@
 # knovator-assignment
-## change .env.example -> .env
+### change .env.example -> .env
